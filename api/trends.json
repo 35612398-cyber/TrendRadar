@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-07T16:21:26.858173+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2026-06-07T16:42:28.403867+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能 AI 大模型 ChatGPT deepseek 豆包 文心一言 通义千问 元宝 Claude Gemini copilot",
-      "match_count": 34,
+      "keyword_group": "AI 人工智能 科技 互联网 大厂 DeepSeek ChatGPT 大模型 副业 创业 赚钱 就业 招聘 教育 医疗 养老 手机 汽车 新能源",
+      "match_count": 47,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -16,8 +16,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 16时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 16时42分]"
+        },
+        {
+          "title": "九大科技股一日蒸发万亿美元！一文纵览华尔街解读周五抛售",
+          "url": "https://www.cls.cn/detail/2392569",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 16时42分]"
         },
         {
           "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
@@ -32,17 +45,16 @@
           "time_info": "[00时12分 ~ 08时12分]"
         },
         {
-          "title": "豆包认错蘑菇,高管:仅供参考",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354925&amp;topic_name=%E8%B1%86%E5%8C%85%E8%AE%A4%E9%94%99%E8%98%91%E8%8F%87%2C%E9%AB%98%E7%AE%A1%3A%E4%BB%85%E4%BE%9B%E5%8F%82%E8%80%83",
-          "source": "贴吧",
+          "title": "陈茂波：香港AI+与产业发展策略委员会顺利组成",
+          "url": "https://wallstreetcn.com/livenews/3115527",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            7,
-            12
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 16时21分]"
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 16时42分]"
         },
         {
           "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
@@ -51,33 +63,12 @@
           "ranks": [
             1,
             14,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时10分 ~ 16时21分]"
-        },
-        {
-          "title": "陈茂波：香港AI+与产业发展策略委员会顺利组成",
-          "url": "https://wallstreetcn.com/livenews/3115527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 16时21分]"
-        },
-        {
-          "title": "黄仁勋会见韩国两大游戏商代表，共商游戏AI合作方案",
-          "url": "https://wallstreetcn.com/livenews/3115526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 16时21分]"
+          "appearance_count": 6,
+          "time_info": "[06时10分 ~ 16时42分]"
         },
         {
           "title": "报道：美国白宫AI政策顾问Krisnan将离职",
@@ -92,6 +83,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时13分 ~ 13时44分]"
+        },
+        {
+          "title": "诺基亚发布首款微聊手机，售价 199 元，可视频通话，但连不了 WiFi，该机在当前市场生存空间大吗？",
+          "url": "https://www.zhihu.com/question/2043731506648934117",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6,
+            3,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 08时12分]"
         },
         {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
@@ -130,6 +136,19 @@
           "time_info": "00时12分"
         },
         {
+          "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
+          "url": "https://wallstreetcn.com/livenews/3115520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 16时42分]"
+        },
+        {
           "title": "AI如何写全国I卷高考作文",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
           "source": "bilibili 热搜",
@@ -142,16 +161,27 @@
           "time_info": "[13时44分 ~ 16时21分]"
         },
         {
-          "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
-          "url": "https://wallstreetcn.com/livenews/3115520",
+          "title": "黄仁勋会见韩国两大游戏商代表，共商游戏AI合作方案",
+          "url": "https://wallstreetcn.com/livenews/3115526",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            10
+            5,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时44分 ~ 16时21分]"
+          "time_info": "[16时17分 ~ 16时42分]"
+        },
+        {
+          "title": "巡视组现场要求：把手机拿出来我看看",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%A1%E8%A7%86%E7%BB%84%E7%8E%B0%E5%9C%BA%E8%A6%81%E6%B1%82%EF%BC%9A%E6%8A%8A%E6%89%8B%E6%9C%BA%E6%8B%BF%E5%87%BA%E6%9D%A5%E6%88%91%E7%9C%8B%E7%9C%8B",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         },
         {
           "title": "为什么现在 AI 生成到了人人喊打的境遇？大量劣质一眼假的东西泛滥成灾？",
@@ -176,8 +206,89 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时12分 ~ 16时42分]"
+        },
+        {
+          "title": "电脑成精化身互联网喷子",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354897&amp;topic_name=%E7%94%B5%E8%84%91%E6%88%90%E7%B2%BE%E5%8C%96%E8%BA%AB%E4%BA%92%E8%81%94%E7%BD%91%E5%96%B7%E5%AD%90",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时12分 ~ 08时12分]"
+        },
+        {
+          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
+          "url": "https://wallstreetcn.com/articles/3774032",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时12分 ~ 16时21分]"
+          "time_info": "[13时44分 ~ 16时42分]"
+        },
+        {
+          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
+          "url": "https://wallstreetcn.com/articles/3774027",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 16时42分]"
+        },
+        {
+          "title": "AI 让个人效率涨 10 倍，为什么公司却没赚更多的钱？",
+          "url": "https://www.zhihu.com/question/2025012000539846038",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 16时42分]"
+        },
+        {
+          "title": "AI写的高考作文你打几分",
+          "url": "https://www.douyin.com/hot/2525981",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 16时42分]"
+        },
+        {
+          "title": "特朗普刚起床就发了AI视频",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%9A%E8%B5%B7%E5%BA%8A%E5%B0%B1%E5%8F%91%E4%BA%86AI%E8%A7%86%E9%A2%91&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 16时42分]"
+        },
+        {
+          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 16时42分]"
         },
         {
           "title": "高考新增AI监考员",
@@ -193,51 +304,27 @@
           "time_info": "[02时13分 ~ 08时12分]"
         },
         {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 16时21分]"
-        },
-        {
-          "title": "债券巨头买入债券，为AI泡沫破裂做准备",
-          "url": "https://wallstreetcn.com/articles/3774027",
+          "title": "黄金抹去2026年全部涨幅，白银单日暴跌8.5%，美国强劲就业数据推升加息预期",
+          "url": "https://wallstreetcn.com/articles/3773995",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时44分 ~ 16时21分]"
+          "time_info": "[00时12分 ~ 04时15分]"
         },
         {
-          "title": "高考 豆包",
-          "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%20%E8%B1%86%E5%8C%85&t=31&band_rank=12&Refer=top",
-          "source": "微博",
+          "title": "女生高考前刷手机刷到作文“答案”",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83%E5%89%8D%E5%88%B7%E6%89%8B%E6%9C%BA%E5%88%B7%E5%88%B0%E4%BD%9C%E6%96%87%E2%80%9C%E7%AD%94%E6%A1%88%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            12,
+            18,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时44分 ~ 16时21分]"
-        },
-        {
-          "title": "AI 让个人效率涨 10 倍，为什么公司却没赚更多的钱？",
-          "url": "https://www.zhihu.com/question/2025012000539846038",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 16时21分]"
+          "time_info": "[16时17分 ~ 16时42分]"
         },
         {
           "title": "美股暴跌是AI第一次冲击人类经济吗",
@@ -253,50 +340,63 @@
           "time_info": "[00时12分 ~ 04时15分]"
         },
         {
-          "title": "AI写的高考作文你打几分",
-          "url": "https://www.douyin.com/hot/2525981",
-          "source": "抖音",
+          "title": "特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的",
+          "url": "https://wallstreetcn.com/articles/3773991",
+          "source": "华尔街见闻",
           "ranks": [
-            17
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时44分 ~ 16时21分]"
-        },
-        {
-          "title": "特朗普刚起床就发了AI视频",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%9A%E8%B5%B7%E5%BA%8A%E5%B0%B1%E5%8F%91%E4%BA%86AI%E8%A7%86%E9%A2%91&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 16时21分]"
-        },
-        {
-          "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33325056",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 16时21分]"
+          "time_info": "[00时12分 ~ 06时10分]"
         },
         {
           "title": "陈茂波：香港AI+与产业发展策略委员会顺利组成",
           "url": "https://flash.jin10.com/detail/20260607145850352800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 16时42分]"
+        },
+        {
+          "title": "如何评价 2026 高考上海卷作文题，「科技改造想象」是不是很容易找到写作切入点？",
+          "url": "https://www.zhihu.com/question/2046909900161393755",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 16时42分]"
+        },
+        {
+          "title": "高考明天开考，教育部发布四点特别提醒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33323554",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时13分 ~ 06时10分]"
+        },
+        {
+          "title": "中国成澳洲汽车最大进口国",
+          "url": "https://www.toutiao.com/trending/7647422213582684211/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时17分 ~ 16时21分]"
+          "time_info": "[02时13分 ~ 06时10分]"
         },
         {
           "title": "黄仁勋会见韩国两大游戏商代表 共商游戏AI合作方案",
@@ -319,6 +419,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
+        },
+        {
+          "title": "美国就业：碳基和硅基的两重天",
+          "url": "https://wallstreetcn.com/articles/3774009",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
+          "title": "以色列国防军：枪击现场的恐怖分子已被击毙。士兵们与医疗人员一起，开始对其他恐怖分子进行广泛搜查，并为受伤者提供医疗救助。更多士兵正在前往现场。",
+          "url": "https://flash.jin10.com/detail/20260607162418304800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "5大AI写高考作文",
+          "url": "https://s.weibo.com/weibo?q=%235%E5%A4%A7AI%E5%86%99%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "特朗普首席人工智能顾问克里希南将于月底离职",
@@ -387,6 +520,17 @@
           "time_info": "02时13分"
         },
         {
+          "title": "美国总统特朗普转发了白宫关于就业数据的社交媒体帖子，内容为：“就业、就业、就业。数据不会骗人。”",
+          "url": "https://flash.jin10.com/detail/20260607001237895800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时13分"
+        },
+        {
           "title": "AI写的高考作文你打几分",
           "url": "https://www.toutiao.com/trending/7647893809128279615/",
           "source": "今日头条",
@@ -407,57 +551,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "裁员 就业 失业 铁饭碗 公务员 降薪",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "黄金抹去2026年全部涨幅，白银单日暴跌8.5%，美国强劲就业数据推升加息预期",
-          "url": "https://wallstreetcn.com/articles/3773995",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 04时15分]"
         },
         {
-          "title": "特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的",
-          "url": "https://wallstreetcn.com/articles/3773991",
-          "source": "华尔街见闻",
+          "title": "连续两年有考生向记者借手机找家长",
+          "url": "https://www.toutiao.com/trending/7648541363850575899/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            9
+            28
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 06时10分]"
-        },
-        {
-          "title": "美国就业：碳基和硅基的两重天",
-          "url": "https://wallstreetcn.com/articles/3774009",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时12分"
-        },
-        {
-          "title": "美国总统特朗普转发了白宫关于就业数据的社交媒体帖子，内容为：“就业、就业、就业。数据不会骗人。”",
-          "url": "https://flash.jin10.com/detail/20260607001237895800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时13分"
+          "time_info": "16时42分"
         }
       ]
     }
